@@ -6,5 +6,5 @@ This is a platformer about corn, but only if you squint your eyes annd think abo
 controls:
 arrows keys :p
 
-Visual assets provided by Kenny Assets [Pixel Platformer](https://kenney.nl/assets/abstract-platformer) asset pack, with gratitude. 
-Audio Assets also provided by Kenny Assets [Pixel Platformer](https://kenney.nl/assets/digital-audio) asset pack, also with gratitude.
+Visual assets provided by Kenny Assets [Abstract Platformer](https://kenney.nl/assets/abstract-platformer) asset pack, with gratitude. 
+Audio Assets also provided by Kenny Assets [Digital Audio](https://kenney.nl/assets/digital-audio) asset pack, also with gratitude.
